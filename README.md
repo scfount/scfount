@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven
-- 👀 I’m interested in SWE internships Summer 2022
+- 👀 I’m interested in SWE internships for Summer 2022
 - 🌱 I’m currently studying Computer Science at Northeastern Univeristy in Seattle,  WA
 
 <!---
