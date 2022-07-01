@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Steven
-- 🐶 I’m an incoming SWE intern at Rover.com, Summer 2022
+- 🐶 I’m a Software Engineer at Rover.com, working with with the payments team.
 - 🌱 I’m currently a Graduate Student studying Computer Science at Northeastern Univeristy in Seattle, WA
 
 <!---
