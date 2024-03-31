@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Steven
-- 🐶 In January 2023, I joined [Rover](https://www.rover.com) as a Software Engineer on the payments team 💰
+- 🐶 In January 2023, I joined [Rover](https://www.rover.com) as a Software Engineer on the payments team
    - Backend: MySQL, Python/Django
-   - Frontend : JS/React
+   - Frontend : React + TS
 - 🌱 In Decemer 2022, I earned a Master of Science in Compuer Scince from [Northeastern University's ALIGN progam](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/) in Seattle, WA
 
 <!---
